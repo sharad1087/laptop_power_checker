@@ -1,0 +1,22 @@
+{
+  "mains": {
+    "attributes": [
+      "online"
+    ],
+    "devices": {
+      "1": [
+        "1"
+      ]
+    }
+  },
+  "battery": {
+    "attributes": [
+      "status"
+    ],
+    "devices": {
+      "1": [
+        "Charging"
+      ]
+    }
+  }
+}
